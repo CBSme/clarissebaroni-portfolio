@@ -3,7 +3,7 @@
 Personal portfolio site for Clarisse Baroni, Fintech Partnerships & Client Growth professional based in Kampala, Uganda.
 
 ## Live Site
-https://clarisse-portfolio.onrender.com 
+https://clarissebaroni-portfolio.onrender.com 
 
 ## About
 This site was built as part of a job search strategy ahead of the Refactory Career Expo 2026. It showcases professional experience in fintech sales, cross-border payments, multilingual client relationships, and digital marketing across four continents.
