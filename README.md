@@ -21,7 +21,7 @@ HTML · CSS · Vanilla JavaScript · Formspree · Render
 
 ## Deployment
 Deployed as a static site on [Render](https://render.com).  
-Auto-deploys on every push to the `main` branch.
+Auto-deploys on every push to the `master` branch.
 
 ## Author
 Clarisse Baroni  
